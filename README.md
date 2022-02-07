@@ -6,7 +6,7 @@
 ![Stars](https://img.shields.io/github/stars/FuchsbauFox)
 ![Followers](https://img.shields.io/github/followers/FuchsbauFox)
 
-:seedling: I'm currently learning C++, C#
+:seedling: I'm currently learning C, C++, C#
 
 📧: Ask me about everything: https://t.me/FuchsbauFox
 
