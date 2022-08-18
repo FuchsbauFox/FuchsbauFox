@@ -25,8 +25,8 @@
 <!-- TeX --><a href="https://tug.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TeX_logo.svg/1920px-TeX_logo.svg.png" alt="TeX" height="32"/> </a>
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=FuchsbauFox&count_private=true&show_icons=true&&theme=radical" alt="FuchsbauFox" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=FuchsbauFox&count_private=true&show_icons=true&card_width=450&theme=radical" alt="FuchsbauFox" /> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuchsbauFox&count_private=true&show_icons=true&layout=compact&card_width=450&langs_count=10&hide=CMake,Makefile,Arc,PowerShell,BatchFile,HTML&locale=en&theme=radical" alt="FuchsbauFox" />
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FuchsbauFox&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FuchsbauFox&show_icons=true&theme=radical&card_width=450)
