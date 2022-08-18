@@ -26,7 +26,7 @@
 
 <div display="inline-flex"  align-items="center" justify-content="space-between">
   <img src="https://github-readme-stats.vercel.app/api?username=FuchsbauFox&count_private=true&show_icons=true&theme=radical" alt="FuchsbauFox" /> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuchsbauFox&count_private=true&show_icons=true&layout=compact&card_width=425&langs_count=10&hide=CMake,Makefile,Arc,PowerShell,BatchFile,HTML&locale=en&theme=radical" alt="FuchsbauFox" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FuchsbauFox&count_private=true&show_icons=true&layout=compact&card_width=500&langs_count=10&hide=CMake,Makefile,Arc,PowerShell,BatchFile,HTML&locale=en&theme=radical" alt="FuchsbauFox" />
 </div>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FuchsbauFox&show_icons=true&theme=radical)
