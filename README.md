@@ -18,7 +18,7 @@ I'm **Fullstack developer** from Saint-Petersburg, Russia
 JavaScript&nbsp;★★★★☆ · TypeScript&nbsp;★★★★☆ · React&nbsp;★★★★☆ · Next.js&nbsp;★★★☆☆ · Redux&nbsp;★★★☆☆ · Axios&nbsp;★★★☆☆ · REST&nbsp;API&nbsp;★★★★☆ · Tailwind&nbsp;CSS&nbsp;★★★☆☆ · ESLint&nbsp;★★★★☆ · Prettier&nbsp;★★★★☆ · React&nbsp;Testing&nbsp;Library&nbsp;★★☆☆☆ · Vitest&nbsp;★★☆☆☆
 
 <div align="left">
-  <img src="https://gitstrength.netlify.app/api/skill-set-card?skills=JavaScript%2CTypeScript%2CReact%2CNext.js%2CRedux%2CAxios%2CTailwind%20CSS%2CESLint%2CPrettier%2CTesting%20Library%2CVitest&theme=%7B%22backgroundColor%22%3A%22%230F1117%22%2C%22textColor%22%3A%22%23E6EED6%22%2C%22accentColor%22%3A%22%23C77DFF%22%2C%22borderColor%22%3A%22%234A2A6A%22%2C%22badgeColor%22%3A%22%23334155%22%2C%22badgeColor1%22%3A%22%23B14AED%22%2C%22badgeColor2%22%3A%22%23FF6B9D%22%2C%22badgeColor3%22%3A%22%23FFE0F0%22%7D&username=FuchsbauFox" alt="Frontend Skills" width="100%"/>
+  <img src="https://gitstrength.netlify.app/api/skill-set-card?skills=JavaScript%2CTypeScript%2CReact%2CNext.js%2CRedux%2CAxios%2CTailwind%20CSS%2CESLint%2CPrettier%2CTesting%20Library%2CVitest&theme=%7B%22backgroundColor%22%3A%22%230F1117%22%2C%22textColor%22%3A%22%23E6EED6%22%2C%22accentColor%22%3A%22%23C77DFF%22%2C%22borderColor%22%3A%22%234A2A6A%22%2C%22badgeColor%22%3A%22%23334155%22%2C%22badgeColor1%22%3A%22%23B14AED%22%2C%22badgeColor2%22%3A%22%23FF6B9D%22%2C%22badgeColor3%22%3A%22%23FFE0F0%22%7D&username=FuchsbauFox" alt="Frontend Skills" height="150"/>
 </div>
 
 **Also work with:**
@@ -29,7 +29,7 @@ Apollo&nbsp;Client · Zustand · MobX · GraphQL · WebSockets · React&nbsp;Rou
 JavaScript&nbsp;★★★★☆ · TypeScript&nbsp;★★★★☆ · Go&nbsp;★★★☆☆ · Kotlin&nbsp;★★★☆☆ · Node.js&nbsp;★★★☆☆ · NestJS&nbsp;★★★★☆ · PostgreSQL&nbsp;★★★★☆ · Prisma&nbsp;★★★★☆ · Knex.js&nbsp;★★☆☆☆ · REST&nbsp;API&nbsp;★★★★☆ · JWT&nbsp;★★★★☆ · Swagger&nbsp;★★★★☆ · Postman&nbsp;★★★★☆
 
 <div align="left">
-  <img src="https://gitstrength.netlify.app/api/skill-set-card?skills=JavaScript%2CTypeScript%2CGo%2CKotlin%2CNode.js%2CNestJS%2CPostgreSQL%2CPrisma%2CKnex.js%2CSwagger%2CPostman&theme=%7B%22backgroundColor%22%3A%22%230F1117%22%2C%22textColor%22%3A%22%23E6EED6%22%2C%22accentColor%22%3A%22%23C77DFF%22%2C%22borderColor%22%3A%22%234A2A6A%22%2C%22badgeColor%22%3A%22%23334155%22%2C%22badgeColor1%22%3A%22%23B14AED%22%2C%22badgeColor2%22%3A%22%234A8CFF%22%2C%22badgeColor3%22%3A%22%239FCAFF%22%7D&username=FuchsbauFox" alt="Backend Skills" width="100%"/>
+  <img src="https://gitstrength.netlify.app/api/skill-set-card?skills=JavaScript%2CTypeScript%2CGo%2CKotlin%2CNode.js%2CNestJS%2CPostgreSQL%2CPrisma%2CKnex.js%2CSwagger%2CPostman&theme=%7B%22backgroundColor%22%3A%22%230F1117%22%2C%22textColor%22%3A%22%23E6EED6%22%2C%22accentColor%22%3A%22%23C77DFF%22%2C%22borderColor%22%3A%22%234A2A6A%22%2C%22badgeColor%22%3A%22%23334155%22%2C%22badgeColor1%22%3A%22%23B14AED%22%2C%22badgeColor2%22%3A%22%234A8CFF%22%2C%22badgeColor3%22%3A%22%239FCAFF%22%7D&username=FuchsbauFox" alt="Backend Skills" height="150"/>
 </div>
 
 **Also work with:**
@@ -40,7 +40,7 @@ Java · Scala · C# · C++ · Spring&nbsp;Boot · Quarkus · TypeORM · Hibernat
 Git&nbsp;(GitHub/GitLab)&nbsp;★★★★☆ · Linux/Bash&nbsp;★★★☆☆ · Docker&nbsp;★★★☆☆ · Docker&nbsp;Compose&nbsp;★★★☆☆ · Nginx&nbsp;★★★☆☆
 
 <div align="left">
-  <img src="https://gitstrength.netlify.app/api/skill-set-card?skills=Git%2CGitHub%2CGitLab%2CLinux%2CGNU%20Bash%2CDocker%2CNGINX&theme=%7B%22backgroundColor%22%3A%22%230F1117%22%2C%22textColor%22%3A%22%23C77DFF%22%2C%22accentColor%22%3A%22%23C77DFF%22%2C%22borderColor%22%3A%22%23B14AED%22%2C%22badgeColor%22%3A%22%23334155%22%2C%22badgeColor1%22%3A%22%230F1117%22%2C%22badgeColor2%22%3A%22%230F1117%22%2C%22badgeColor3%22%3A%22%230F1117%22%7D&username=FuchsbauFox" alt="DevOps Tools" width="100%"/>
+  <img src="https://gitstrength.netlify.app/api/skill-set-card?skills=Git%2CGitHub%2CGitLab%2CLinux%2CGNU%20Bash%2CDocker%2CNGINX&theme=%7B%22backgroundColor%22%3A%22%230F1117%22%2C%22textColor%22%3A%22%23C77DFF%22%2C%22accentColor%22%3A%22%23C77DFF%22%2C%22borderColor%22%3A%22%23B14AED%22%2C%22badgeColor%22%3A%22%23334155%22%2C%22badgeColor1%22%3A%22%230F1117%22%2C%22badgeColor2%22%3A%22%230F1117%22%2C%22badgeColor3%22%3A%22%230F1117%22%7D&username=FuchsbauFox" alt="DevOps Tools" height="150"/>
 </div>
 
 **Also work with:**
